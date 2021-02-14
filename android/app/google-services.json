@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962328702152",
+    "project_id": "androidsiskamling",
+    "storage_bucket": "androidsiskamling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962328702152:android:822c7114513a242e4209fd",
+        "android_client_info": {
+          "package_name": "com.androidsiskamling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962328702152-8uopuedasckoonui5i0j0h1b5h7tkl43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_W8UlnTDbfZ22RySK3_fL7zysrox1YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962328702152-8uopuedasckoonui5i0j0h1b5h7tkl43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
